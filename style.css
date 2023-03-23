@@ -6,12 +6,12 @@ body {
 }
 @font-face {
     font-family: Sansation;
-    src: url(/img/sansation_light.woff);
+    src: url(/img/Sansation_Light.woff);
  }
  
  @font-face {
     font-family: Sansation;
-    src: url(/img/sansation_bold.woff);
+    src: url(/img/Sansation_Bold.woff);
     font-weight: bold;
  }
 * {
