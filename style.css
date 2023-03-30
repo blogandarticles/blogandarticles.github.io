@@ -75,6 +75,7 @@ li a:hover {
 #recommended {
     width: 35%;
     float:right;
+    margin-right: -10px;
 }
 #recommended h1 {
     background-color: #609966;
