@@ -186,4 +186,13 @@ p {
     #recommended {
         width: 100%;
     }
+    #r4 h1 {
+        width: 80%;
+    }
+    #last4 h1 {
+        width: 80%;
+    }
+    .title {
+        width: 80%;
+    }
   }
