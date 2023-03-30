@@ -20,6 +20,7 @@ body {
 }
 p {
     margin: 10px 15px;
+    margin-left: 0;
 }
 h1 {
     margin: 10px 15px;
