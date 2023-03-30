@@ -1,4 +1,4 @@
-# [Blogi i artykuły 📝](blogandarticles.github.io)
+# [Blogi i artykuły 📝](https://blogandarticles.github.io)
 
 > kozacka stroka 👍
 
