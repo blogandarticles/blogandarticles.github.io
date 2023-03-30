@@ -173,3 +173,15 @@ p {
     padding: 10px;
     color: white;
 }
+
+@media (max-width: 600px) {
+    #r4 {
+        width: 100%;
+    }
+    #last4 {
+        width: 100%;
+    }
+    #recommended {
+        width: 100%;
+    }
+  }
