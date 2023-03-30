@@ -9,6 +9,7 @@
 
 - Sansation (Bold, Light)
 - losowe tło z stocka
+
 [McDonald's](https://mcdonalds.pl/)
 - logo do strony
 
